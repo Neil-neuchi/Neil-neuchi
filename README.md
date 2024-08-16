@@ -1,20 +1,33 @@
-# Hi there, 
+# 👋 Hello, Cyber World!
 
-I'm Neil Harvey (Neil) Miñano , a passionate penetration tester from the Philippines.  
+I'm **Neil Harvey (Neil) Miñano**, a passionate penetration tester hailing from the beautiful Philippines. 🇵🇭
 
-**About me:**
+## 🔐 About Me
 
-* I'm highly motivated and enjoy the challenge of identifying and mitigating vulnerabilities in systems. 
-* (Optional: Add a sentence or two about your areas of interest in cybersecurity)
+* 💻 Dedicated to uncovering and securing digital vulnerabilities
+* 🧠 Constantly learning and evolving in the ever-changing cybersecurity landscape
+* 🚀 Driven by the thrill of ethical hacking and system fortification
 
-**TryHackMe:**
+## 🏆 TryHackMe Adventures
 
-* I'm actively learning and improving my skills on TryHackMe. Check out my profile here: https://tryhackme.com/p/Neuchi(https://tryhackme.com/p/Neuchi)
-* (Optional: Briefly mention your achievements on TryHackMe, like completed rooms or badges earned)
+<img src="https://tryhackme-badges.s3.amazonaws.com/Neuchi.png" alt="TryHackMe Badge" align="right" width="200"/>
 
-![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/Neuchi.png)  
+Join me on my cybersecurity journey:
 
-**Contact:**
+* 🔗 [My TryHackMe Profile](https://tryhackme.com/p/Neuchi)
+* 🏅 Completed X rooms and earned Y badges
+* 🌟 Ranked in the top Z% of all users
 
-* You can find my code and projects on this GitHub profile.
-* (Optional: Include other contact information if you'd like, such as email or LinkedIn)
+## 🛠️ Skills & Tools
+
+```python
+skills = [
+    "Penetration Testing", "Vulnerability Assessment",
+    "Network Security", "Web Application Security",
+    "Social Engineering", "Cryptography"
+]
+
+tools = [
+    "Metasploit", "Burp Suite", "Nmap",
+    "Wireshark", "Kali Linux", "Python"
+]
