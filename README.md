@@ -1,9 +1,20 @@
-<h1 align="center">Hi 👋, I'm Neil Harvey Miñano</h1>
-<h3 align="center">Passionate Filipino Cybersecurity Expert offering comprehensive penetration testing services. With a decade of hands-on experience, I specialize in network and infrastructure security assessments.</h3>
+# Hi there, 
 
-- 📝 I regularly write articles on [https://medium.com/@neilharveycodex13](https://medium.com/@neilharveycodex13)
+I'm Neil Harvey (Neil) Miñano , a passionate penetration tester from the Philippines.  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/neil-harvey-mi%c3%b1ano-2b6a46297/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/neil-harvey-mi%c3%b1ano-2b6a46297/" height="30" width="40" /></a>
-</p>
+**About me:**
+
+* I'm highly motivated and enjoy the challenge of identifying and mitigating vulnerabilities in systems. 
+* (Optional: Add a sentence or two about your areas of interest in cybersecurity)
+
+**TryHackMe:**
+
+* I'm actively learning and improving my skills on TryHackMe. Check out my profile here: https://tryhackme.com/p/Neuchi(https://tryhackme.com/p/Neuchi)
+* (Optional: Briefly mention your achievements on TryHackMe, like completed rooms or badges earned)
+
+![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/Neuchi.png)  
+
+**Contact:**
+
+* You can find my code and projects on this GitHub profile.
+* (Optional: Include other contact information if you'd like, such as email or LinkedIn)
