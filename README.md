@@ -15,8 +15,8 @@ I'm **Neil Harvey (Neil) Miñano**, a passionate penetration tester hailing from
 Join me on my cybersecurity journey:
 
 * 🔗 [My TryHackMe Profile](https://tryhackme.com/p/Neuchi)
-* 🏅 Completed X rooms and earned Y badges
-* 🌟 Ranked in the top Z% of all users
+* 🏅 Completed 111 rooms and earned 17 badges
+* 🌟 Ranked in the top 2% of all users
 
 ## 🛠️ Skills & Tools
 
